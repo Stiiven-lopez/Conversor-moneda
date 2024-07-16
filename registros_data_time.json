@@ -1,0 +1,642 @@
+[
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "ARS",
+      "Monto_a_Convertir": 1230.0,
+      "Resultado": 1063642.5,
+      "Tasa_Conversion": 864.75
+    },
+    "timestamp": "2024-04-20 12:23:50"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "ARS",
+      "Monto_a_Convertir": 12345.0,
+      "Resultado": 1.067533875E7,
+      "Tasa_Conversion": 864.75
+    },
+    "timestamp": "2024-04-20 12:41:12"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "COP",
+      "Monto_a_Convertir": 1.0,
+      "Resultado": 3906.5593,
+      "Tasa_Conversion": 3906.5593
+    },
+    "timestamp": "2024-04-20 12:41:31"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "COP",
+      "Monto_a_Convertir": 2334.0,
+      "Resultado": 9117909.4062,
+      "Tasa_Conversion": 3906.5593
+    },
+    "timestamp": "2024-04-20 12:48:53"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "ARS",
+      "Monto_a_Convertir": 10.0,
+      "Resultado": 8647.5,
+      "Tasa_Conversion": 864.75
+    },
+    "timestamp": "2024-04-20 13:09:34"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "ARS",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 5000.0,
+      "Resultado": 5.779999999999999,
+      "Tasa_Conversion": 0.001156
+    },
+    "timestamp": "2024-04-20 13:09:44"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "BOB",
+      "Monto_a_Convertir": 1.0,
+      "Resultado": 6.9294,
+      "Tasa_Conversion": 6.9294
+    },
+    "timestamp": "2024-04-20 13:09:59"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "BOB",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 200.0,
+      "Resultado": 28.860000000000003,
+      "Tasa_Conversion": 0.1443
+    },
+    "timestamp": "2024-04-20 13:10:09"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "COP",
+      "Monto_a_Convertir": 1500.0,
+      "Resultado": 5859838.95,
+      "Tasa_Conversion": 3906.5593
+    },
+    "timestamp": "2024-04-20 13:10:20"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 1000000.0,
+      "Resultado": 255.98,
+      "Tasa_Conversion": 2.5598E-4
+    },
+    "timestamp": "2024-04-20 13:10:30"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "COP",
+      "Monto_a_Convertir": 500.0,
+      "Resultado": 1953279.65,
+      "Tasa_Conversion": 3906.5593
+    },
+    "timestamp": "2024-04-20 13:11:05"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 1000000.0,
+      "Resultado": 255.98,
+      "Tasa_Conversion": 2.5598E-4
+    },
+    "timestamp": "2024-04-20 13:11:16"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 1.0,
+      "Resultado": 2.5598E-4,
+      "Tasa_Conversion": 2.5598E-4
+    },
+    "timestamp": "2024-04-20 13:11:26"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 100.0,
+      "Resultado": 0.025598,
+      "Tasa_Conversion": 2.5598E-4
+    },
+    "timestamp": "2024-04-20 13:13:20"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "COP",
+      "Monto_a_Convertir": 1200.0,
+      "Resultado": 4687871.16,
+      "Tasa_Conversion": 3906.5593
+    },
+    "timestamp": "2024-04-20 13:13:50"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "ARS",
+      "Monto_a_Convertir": 2000.0,
+      "Resultado": 1729500.0,
+      "Tasa_Conversion": 864.75
+    },
+    "timestamp": "2024-04-20 14:18:02"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "ARS",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 2000.0,
+      "Resultado": 2.312,
+      "Tasa_Conversion": 0.001156
+    },
+    "timestamp": "2024-04-20 14:18:16"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "ARS",
+      "Monto_a_Convertir": 3000.0,
+      "Resultado": 2594250.0,
+      "Tasa_Conversion": 864.75
+    },
+    "timestamp": "2024-04-20 14:20:22"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "ARS",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 3000.0,
+      "Resultado": 3.4679999999999995,
+      "Tasa_Conversion": 0.001156
+    },
+    "timestamp": "2024-04-20 14:20:58"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "BOB",
+      "Monto_a_Convertir": 3000.0,
+      "Resultado": 20788.2,
+      "Tasa_Conversion": 6.9294
+    },
+    "timestamp": "2024-04-20 14:21:18"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "BOB",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 3000.0,
+      "Resultado": 432.90000000000003,
+      "Tasa_Conversion": 0.1443
+    },
+    "timestamp": "2024-04-20 14:21:25"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "COP",
+      "Monto_a_Convertir": 3000.0,
+      "Resultado": 1.17196779E7,
+      "Tasa_Conversion": 3906.5593
+    },
+    "timestamp": "2024-04-20 14:21:32"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 3000.0,
+      "Resultado": 0.76794,
+      "Tasa_Conversion": 2.5598E-4
+    },
+    "timestamp": "2024-04-20 14:21:41"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "EUR",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 3000.0,
+      "Resultado": 3198.6,
+      "Tasa_Conversion": 1.0662
+    },
+    "timestamp": "2024-04-20 14:22:05"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "CAD",
+      "Monto_a_Convertir": 30000.0,
+      "Resultado": 10.592099999999999,
+      "Tasa_Conversion": 3.5307E-4
+    },
+    "timestamp": "2024-04-20 14:22:43"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "ARS",
+      "Monto_a_Convertir": 12347.0,
+      "Resultado": 1.067706825E7,
+      "Tasa_Conversion": 864.75
+    },
+    "timestamp": "2024-04-20 16:05:35"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "ARS",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 4500.0,
+      "Resultado": 5.202,
+      "Tasa_Conversion": 0.001156
+    },
+    "timestamp": "2024-04-20 16:05:46"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "COP",
+      "Monto_a_Convertir": 1.0,
+      "Resultado": 3906.5593,
+      "Tasa_Conversion": 3906.5593
+    },
+    "timestamp": "2024-04-20 16:26:22"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "EUR",
+      "Moneda_Destino": "COP",
+      "Monto_a_Convertir": 1.0,
+      "Resultado": 4159.4855,
+      "Tasa_Conversion": 4159.4855
+    },
+    "timestamp": "2024-04-20 16:49:04"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "COP",
+      "Monto_a_Convertir": 1000.0,
+      "Resultado": 3906142.6,
+      "Tasa_Conversion": 3906.1426
+    },
+    "timestamp": "2024-04-21 11:42:50"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "COP",
+      "Monto_a_Convertir": 12000.0,
+      "Resultado": 4.68737112E7,
+      "Tasa_Conversion": 3906.1426
+    },
+    "timestamp": "2024-04-21 11:43:03"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "EUR",
+      "Monto_a_Convertir": 1000.0,
+      "Resultado": 0.24042,
+      "Tasa_Conversion": 2.4042E-4
+    },
+    "timestamp": "2024-04-21 11:43:34"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "COP",
+      "Monto_a_Convertir": 2000.0,
+      "Resultado": 7812285.2,
+      "Tasa_Conversion": 3906.1426
+    },
+    "timestamp": "2024-04-21 11:49:29"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "COP",
+      "Monto_a_Convertir": 69897.0,
+      "Resultado": 2.730276493122E8,
+      "Tasa_Conversion": 3906.1426
+    },
+    "timestamp": "2024-04-21 11:58:32"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "OMR",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 10000.0,
+      "Resultado": 26008.0,
+      "Tasa_Conversion": 2.6008
+    },
+    "timestamp": "2024-04-21 13:27:31"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "MXN",
+      "Moneda_Destino": "COP",
+      "Monto_a_Convertir": 50000.0,
+      "Resultado": 1.1483945E7,
+      "Tasa_Conversion": 229.6789
+    },
+    "timestamp": "2024-04-21 13:32:03"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "COP",
+      "Monto_a_Convertir": 1.0,
+      "Resultado": 3906.1426,
+      "Tasa_Conversion": 3906.1426
+    },
+    "timestamp": "2024-04-21 17:17:24"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "COP",
+      "Monto_a_Convertir": 1000.0,
+      "Resultado": 3906142.6,
+      "Tasa_Conversion": 3906.1426
+    },
+    "timestamp": "2024-04-21 18:59:12"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "COP",
+      "Monto_a_Convertir": 1000.0,
+      "Resultado": 3913896.4,
+      "Tasa_Conversion": 3913.8964
+    },
+    "timestamp": "2024-04-21 21:08:07"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 1.0,
+      "Resultado": 2.555E-4,
+      "Tasa_Conversion": 2.555E-4
+    },
+    "timestamp": "2024-04-21 21:08:18"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 1.0,
+      "Resultado": 2.555E-4,
+      "Tasa_Conversion": 2.555E-4
+    },
+    "timestamp": "2024-04-21 21:10:18"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 1.0,
+      "Resultado": 2.555E-4,
+      "Tasa_Conversion": 2.555E-4
+    },
+    "timestamp": "2024-04-21 21:11:27"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 1.0,
+      "Resultado": 2.555E-4,
+      "Tasa_Conversion": 2.555E-4
+    },
+    "timestamp": "2024-04-21 21:13:59"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 1.0,
+      "Resultado": 2.555E-4,
+      "Tasa_Conversion": 2.555E-4
+    },
+    "timestamp": "2024-04-21 21:19:01"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 1.0,
+      "Resultado": 2.555E-4,
+      "Tasa_Conversion": 2.555E-4
+    },
+    "timestamp": "2024-04-21 21:21:24"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 1.0,
+      "Resultado": 2.555E-4,
+      "Tasa_Conversion": 2.555E-4
+    },
+    "timestamp": "2024-04-21 21:22:34"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 1.0,
+      "Resultado": 2.555E-4,
+      "Tasa_Conversion": 2.555E-4
+    },
+    "timestamp": "2024-04-21 21:24:26"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 1.0,
+      "Resultado": 2.555E-4,
+      "Tasa_Conversion": 2.555E-4
+    },
+    "timestamp": "2024-04-21 21:32:22"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 1.0,
+      "Resultado": 2.555E-4,
+      "Tasa_Conversion": 2.555E-4
+    },
+    "timestamp": "2024-04-21 21:54:38"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "ARS",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 12222.0,
+      "Resultado": 14.128632,
+      "Tasa_Conversion": 0.001156
+    },
+    "timestamp": "2024-04-21 21:54:50"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "ZAR",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 1000.0,
+      "Resultado": 52.220000000000006,
+      "Tasa_Conversion": 0.05222
+    },
+    "timestamp": "2024-04-21 21:55:07"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 1000.0,
+      "Resultado": 0.25549999999999995,
+      "Tasa_Conversion": 2.555E-4
+    },
+    "timestamp": "2024-04-22 10:31:15"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "COP",
+      "Monto_a_Convertir": 100000.0,
+      "Resultado": 3.9138964E8,
+      "Tasa_Conversion": 3913.8964
+    },
+    "timestamp": "2024-04-22 10:31:47"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "BRL",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 10000.0,
+      "Resultado": 1904.0000000000002,
+      "Tasa_Conversion": 0.1904
+    },
+    "timestamp": "2024-04-22 10:32:07"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "BRL",
+      "Monto_a_Convertir": 100000.0,
+      "Resultado": 521380.0,
+      "Tasa_Conversion": 5.2138
+    },
+    "timestamp": "2024-04-22 10:32:17"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "ARS",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 10000.0,
+      "Resultado": 11.559999999999999,
+      "Tasa_Conversion": 0.001156
+    },
+    "timestamp": "2024-04-22 10:32:41"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "ARS",
+      "Monto_a_Convertir": 1000.0,
+      "Resultado": 864750.0,
+      "Tasa_Conversion": 864.75
+    },
+    "timestamp": "2024-04-22 10:32:53"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "UYU",
+      "Monto_a_Convertir": 10000.0,
+      "Resultado": 384279.0,
+      "Tasa_Conversion": 38.4279
+    },
+    "timestamp": "2024-04-22 10:33:53"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "BRL",
+      "Monto_a_Convertir": 12000.0,
+      "Resultado": 62565.6,
+      "Tasa_Conversion": 5.2138
+    },
+    "timestamp": "2024-04-22 11:09:03"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "NGN",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 12000.0,
+      "Resultado": 10.42284,
+      "Tasa_Conversion": 8.6857E-4
+    },
+    "timestamp": "2024-04-22 11:09:43"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "COP",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 1000000.0,
+      "Resultado": 255.49999999999997,
+      "Tasa_Conversion": 2.555E-4
+    },
+    "timestamp": "2024-04-22 14:10:56"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "COP",
+      "Monto_a_Convertir": 1000.0,
+      "Resultado": 3913896.4,
+      "Tasa_Conversion": 3913.8964
+    },
+    "timestamp": "2024-04-22 14:11:21"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "ARS",
+      "Moneda_Destino": "USD",
+      "Monto_a_Convertir": 100500.0,
+      "Resultado": 116.178,
+      "Tasa_Conversion": 0.001156
+    },
+    "timestamp": "2024-04-22 14:15:58"
+  },
+  {
+    "conversion": {
+      "Moneda_Origen": "USD",
+      "Moneda_Destino": "COP",
+      "Monto_a_Convertir": 500.0,
+      "Resultado": 1956948.2,
+      "Tasa_Conversion": 3913.8964
+    },
+    "timestamp": "2024-04-22 14:17:03"
+  }
+]
